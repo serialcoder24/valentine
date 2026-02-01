@@ -315,4 +315,8 @@ h2 {
 .music-btn:hover {
     transform: scale(1.05);
     background: var(--secondary-color);
-} 
+}
+
+.hidden-btn {
+    display: none !important;
+}
